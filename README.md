@@ -1,4 +1,4 @@
-# Python_CubosAcademy
+# Python para Dados - Cubos Academy
 
 
   Nesse Minicurso de Análise de Dados pela Cubos Academy, aprendi diversos conceitos básicos de Python para Dados, como:
