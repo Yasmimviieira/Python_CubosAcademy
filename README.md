@@ -7,5 +7,7 @@
   * Tipos de Dados (int, float e str)
   * Operadores Aritméticos
   * Operações com Texto (+, f-strings, len, upper, lower e replace)
+  * SQL: Introdução a Banco de Dados, Tipos de Banco de Dados
+  * Power BI: Data Power Query
 
   Para cada conceito foram feitos alguns exercícios para fixação.
