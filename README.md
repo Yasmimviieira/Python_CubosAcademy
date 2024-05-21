@@ -8,4 +8,4 @@
   * Operadores Aritméticos
   * Operações com Texto (+, f-strings, len, upper, lower e replace)
 
-  Para cada conceito foram feito alguns exercícios para fixação.
+  Para cada conceito foram feitos alguns exercícios para fixação.
